@@ -2,7 +2,7 @@
 
 **Building tools for humans and AI agents.**
 
-Bookklik Technologies is a software solution provider based in Cyberjaya, Selangor, Malaysia. Founded in 2018 by A.Hakim , we are a small, dynamic team focused on web development, app development, and emerging technologies like augmented reality (AR) and virtual reality (VR). We believe in solving real-world problems with the power of technology and information.
+Bookklik Technologies is a software solution provider based in Cyberjaya, Selangor, Malaysia. Founded in 2018 by A.Hakim, we are a small, dynamic team focused on web development, app development, and emerging technologies like augmented reality (AR) and virtual reality (VR). We believe in solving real-world problems with the power of technology and information.
 
 ---
 
@@ -11,7 +11,7 @@ Bookklik Technologies is a software solution provider based in Cyberjaya, Selang
 We are proud to contribute to the developer community by building lightweight, powerful, and accessible tools. Our primary focus is the **SenangStart** ecosystem, designed to make modern web development faster and more intuitive.
 
 ### SenangStart Actions
-A lightweight, declarative JavaScript framework for building reactive user interfaces without a build step. Just include the script and start building.
+A lightweight, declarative JavaScript framework for building reactive user interfaces without a build step.
 
 ### SenangStart CSS
 A utility-first CSS framework that replaces abstract naming conventions with natural adjectives.
@@ -19,8 +19,14 @@ A utility-first CSS framework that replaces abstract naming conventions with nat
 ### SenangStart Icons
 A curated collection of starter SVG icons designed for web projects, easily usable via the `ss-icon` web component.
 
-### SenangWebs
-A versatile web IDE platform and a suite of lightweight JavaScript libraries for modern web development.
+### EzyReka
+A lightweight toolkit for rapid web development and creative prototyping.
+
+### EzyNota
+A minimal note-taking library for developers and AI agents.
+
+### EzyGrid
+A responsive grid and data layout component for modern web applications.
 
 ---
 
@@ -33,6 +39,9 @@ We publish our tools on npm for easy integration into your projects.
 | `@bookklik/senangstart-actions` | Declarative UI framework for humans and AI agents. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-actions.svg)](https://www.npmjs.com/package/@bookklik/senangstart-actions) |
 | `@bookklik/senangstart-css` | Utility-first CSS framework with natural naming. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-css.svg)](https://www.npmjs.com/package/@bookklik/senangstart-css) |
 | `@bookklik/senangstart-icons` | Curated starter icons for web projects. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-icons.svg)](https://www.npmjs.com/package/@bookklik/senangstart-icons) |
+| `@bookklik/ezyreka` | Lightweight toolkit for rapid web development. | [![npm](https://img.shields.io/npm/v/@bookklik/ezyreka.svg)](https://www.npmjs.com/package/@bookklik/ezyreka) |
+| `@bookklik/ezynota` | Minimal note-taking library for developers. | [![npm](https://img.shields.io/npm/v/@bookklik/ezynota.svg)](https://www.npmjs.com/package/@bookklik/ezynota) |
+| `@bookklik/ezygrid` | Responsive grid and data layout component. | [![npm](https://img.shields.io/npm/v/@bookklik/ezygrid.svg)](https://www.npmjs.com/package/@bookklik/ezygrid) |
 
 ---
 
@@ -58,9 +67,11 @@ We are always open to collaboration, questions, and feedback. Feel free to reach
 - **Location:** Cyberjaya, Selangor, Malaysia
 - **Email:** hello@senangwebs.com
 - **LinkedIn:** [Bookklik Technologies](https://www.linkedin.com/company/bookklik-technologies)
+- **GitHub:** [bookklik-technologies](https://github.com/bookklik-technologies)
 
 ### Founder
 - **A.Hakim** — *Founder & Technology Officer*
+- **GitHub** [a-hakim](https://github.com/a-hakim)
 
 ---
 
