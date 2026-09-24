@@ -2,7 +2,7 @@
 
 **Building tools for humans and AI agents.**
 
-Bookklik Technologies is a software solution provider based in Cyberjaya, Selangor, Malaysia. Founded in 2018 by Abdul Noor, we are a small, dynamic team focused on web development, app development, and emerging technologies like augmented reality (AR) and virtual reality (VR). We believe in solving real-world problems with the power of technology and information.
+Bookklik Technologies is a software solution provider based in Cyberjaya, Selangor, Malaysia. Founded in 2018 by A.Hakim , we are a small, dynamic team focused on web development, app development, and emerging technologies like augmented reality (AR) and virtual reality (VR). We believe in solving real-world problems with the power of technology and information.
 
 ---
 
@@ -60,7 +60,7 @@ We are always open to collaboration, questions, and feedback. Feel free to reach
 - **LinkedIn:** [Bookklik Technologies](https://www.linkedin.com/company/bookklik-technologies)
 
 ### Founder
-- **Abdul Noor** — *Founder & Technology Officer*
+- **A.Hakim** — *Founder & Technology Officer*
 
 ---
 
