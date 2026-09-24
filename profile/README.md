@@ -1,10 +1,67 @@
-## Hi there 👋
+# Bookklik Technologies
 
-**Here are some ideas to get you started:**
+**Building tools for humans and AI agents.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Bookklik Technologies is a software solution provider based in Cyberjaya, Selangor, Malaysia. Founded in 2018 by Abdul Noor, we are a small, dynamic team focused on web development, app development, and emerging technologies like augmented reality (AR) and virtual reality (VR). We believe in solving real-world problems with the power of technology and information.
 
+---
+
+## 🚀 Our Open-Source Projects
+
+We are proud to contribute to the developer community by building lightweight, powerful, and accessible tools. Our primary focus is the **SenangStart** ecosystem, designed to make modern web development faster and more intuitive.
+
+### SenangStart Actions
+A lightweight, declarative JavaScript framework for building reactive user interfaces without a build step. Just include the script and start building.
+
+### SenangStart CSS
+A utility-first CSS framework that replaces abstract naming conventions with natural adjectives.
+
+### SenangStart Icons
+A curated collection of starter SVG icons designed for web projects, easily usable via the `ss-icon` web component.
+
+### SenangWebs
+A versatile web IDE platform and a suite of lightweight JavaScript libraries for modern web development.
+
+---
+
+## 📦 Featured Packages
+
+We publish our tools on npm for easy integration into your projects.
+
+| Package | Description | Links |
+| :--- | :--- | :--- |
+| `@bookklik/senangstart-actions` | Declarative UI framework for humans and AI agents. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-actions.svg)](https://www.npmjs.com/package/@bookklik/senangstart-actions) |
+| `@bookklik/senangstart-css` | Utility-first CSS framework with natural naming. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-css.svg)](https://www.npmjs.com/package/@bookklik/senangstart-css) |
+| `@bookklik/senangstart-icons` | Curated starter icons for web projects. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-icons.svg)](https://www.npmjs.com/package/@bookklik/senangstart-icons) |
+
+---
+
+## 🛠️ Technologies We Use
+
+We build with modern, performant, and accessible technologies.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=for-the-badge&logo=a-frame&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+We also have experience in **Virtual Reality** and **Augmented Reality** development.
+
+---
+
+## 🤝 Connect With Us
+
+We are always open to collaboration, questions, and feedback. Feel free to reach out!
+
+- **Website:** [bookklik.com](https://bookklik.com)
+- **Location:** Cyberjaya, Selangor, Malaysia
+- **Email:** hello@senangwebs.com
+- **LinkedIn:** [Bookklik Technologies](https://www.linkedin.com/company/bookklik-technologies)
+
+### Founder
+- **Abdul Noor** — *Founder & Technology Officer*
+
+---
+
+*Made with ❤️ in Malaysia.*
