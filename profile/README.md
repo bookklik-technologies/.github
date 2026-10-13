@@ -8,18 +8,21 @@ Bookklik Technologies is a software solution provider based in Cyberjaya, Selang
 
 ## 🚀 Our Open-Source Projects & Packages
 
-We are proud to contribute to the developer community by building lightweight, powerful, and accessible open-source tools. Our projects focus on simplifying modern web development, enhancing productivity, and empowering both developers and AI agents to build faster and more intuitively.
+At **Bookklik Technologies**, we are proud to contribute to the developer and creator communities by building lightweight, powerful, and accessible open-source tools. Our projects focus on simplifying modern web development, enhancing productivity, and empowering developers, designers, and AI agents to build and create more efficiently.
 
-All our tools are available on **npm** for easy integration into your projects.
+Our ecosystem includes JavaScript frameworks, UI components, development libraries, and browser-based creative tools. Explore our projects on **GitHub** and **npm**.
 
-| Project | Description | npm |
+| Project | Description | Links |
 | :--- | :--- | :--- |
-| **SenangStart Actions** | A lightweight, declarative JavaScript framework for building reactive user interfaces without a build step. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-actions.svg)](https://www.npmjs.com/package/@bookklik/senangstart-actions) |
-| **SenangStart CSS** | A utility-first CSS framework that uses natural adjectives instead of abstract naming conventions. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-css.svg)](https://www.npmjs.com/package/@bookklik/senangstart-css) |
-| **SenangStart Icons** | A curated collection of SVG icons for web projects, easily integrated using the `ss-icon` web component. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-icons.svg)](https://www.npmjs.com/package/@bookklik/senangstart-icons) |
-| **EzyReka** | A lightweight toolkit for rapid web development and creative prototyping. | [![npm](https://img.shields.io/npm/v/@bookklik/ezyreka.svg)](https://www.npmjs.com/package/@bookklik/ezyreka) |
-| **EzyNota** | A minimal, developer-friendly note-taking library designed for developers and AI agents. | [![npm](https://img.shields.io/npm/v/@bookklik/ezynota.svg)](https://www.npmjs.com/package/@bookklik/ezynota) |
-| **EzyGrid** | A responsive grid and data layout component for modern, data-driven web applications. | [![npm](https://img.shields.io/npm/v/@bookklik/ezygrid.svg)](https://www.npmjs.com/package/@bookklik/ezygrid) |
+| **SenangStart Actions** | A lightweight, declarative JavaScript framework for building reactive user interfaces without a build step. | [GitHub](https://github.com/bookklik-technologies/senangstart-actions) · [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-actions.svg)](https://www.npmjs.com/package/@bookklik/senangstart-actions) |
+| **SenangStart CSS** | A utility-first CSS framework that uses natural adjectives instead of abstract naming conventions. | [GitHub](https://github.com/bookklik-technologies/senangstart-css) · [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-css.svg)](https://www.npmjs.com/package/@bookklik/senangstart-css) |
+| **SenangStart Icons** | A curated collection of SVG icons for web projects, easily integrated using the `ss-icon` web component. | [GitHub](https://github.com/bookklik-technologies/senangstart-icons) · [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-icons.svg)](https://www.npmjs.com/package/@bookklik/senangstart-icons) |
+| **EzyReka** | An embeddable JavaScript library for building Canva-style visual design editors. | [GitHub](https://github.com/bookklik-technologies/ezyreka) · [![npm](https://img.shields.io/npm/v/@bookklik/ezyreka.svg)](https://www.npmjs.com/package/@bookklik/ezyreka) |
+| **EzyNota** | A lightweight, extensible block-style editor library with portable JSON output. | [GitHub](https://github.com/bookklik-technologies/ezynota) · [![npm](https://img.shields.io/npm/v/@bookklik/ezynota.svg)](https://www.npmjs.com/package/@bookklik/ezynota) |
+| **EzyGrid** | A framework-agnostic JavaScript spreadsheet and data-grid library for building Excel-like interfaces. | [GitHub](https://github.com/bookklik-technologies/ezygrid) · [![npm](https://img.shields.io/npm/v/@bookklik/ezygrid.svg)](https://www.npmjs.com/package/@bookklik/ezygrid) |
+| **PiVo Ortho** | A local-first, browser-based 3D editor for low-poly modeling, texturing, and animation. | [GitHub](https://github.com/bookklik-technologies/pivo-ortho) · [Live App](https://bookklik-technologies.github.io/pivo-ortho/) |
+| **PiVo Plate** | A local-first, browser-based tile-to-3D modeling editor. | [GitHub](https://github.com/bookklik-technologies/pivo-plate) · [Live App](https://bookklik-technologies.github.io/pivo-plate/) |
+| **PiVo Craft** | A local-first, browser-based pixel art and animation editor for digital creators. | [GitHub](https://github.com/bookklik-technologies/pivo-craft) · [Live App](https://bookklik-technologies.github.io/pivo-craft/) |
 
 ---
 
