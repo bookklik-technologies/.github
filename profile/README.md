@@ -6,42 +6,20 @@ Bookklik Technologies is a software solution provider based in Cyberjaya, Selang
 
 ---
 
-## 🚀 Our Open-Source Projects
+## 🚀 Our Open-Source Projects & Packages
 
-We are proud to contribute to the developer community by building lightweight, powerful, and accessible tools. Our primary focus is the **SenangStart** ecosystem, designed to make modern web development faster and more intuitive.
+We are proud to contribute to the developer community by building lightweight, powerful, and accessible open-source tools. Our projects focus on simplifying modern web development, enhancing productivity, and empowering both developers and AI agents to build faster and more intuitively.
 
-### SenangStart Actions
-A lightweight, declarative JavaScript framework for building reactive user interfaces without a build step.
+All our tools are available on **npm** for easy integration into your projects.
 
-### SenangStart CSS
-A utility-first CSS framework that replaces abstract naming conventions with natural adjectives.
-
-### SenangStart Icons
-A curated collection of starter SVG icons designed for web projects, easily usable via the `ss-icon` web component.
-
-### EzyReka
-A lightweight toolkit for rapid web development and creative prototyping.
-
-### EzyNota
-A minimal note-taking library for developers and AI agents.
-
-### EzyGrid
-A responsive grid and data layout component for modern web applications.
-
----
-
-## 📦 Featured Packages
-
-We publish our tools on npm for easy integration into your projects.
-
-| Package | Description | Links |
+| Project | Description | npm |
 | :--- | :--- | :--- |
-| `@bookklik/senangstart-actions` | Declarative UI framework for humans and AI agents. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-actions.svg)](https://www.npmjs.com/package/@bookklik/senangstart-actions) |
-| `@bookklik/senangstart-css` | Utility-first CSS framework with natural naming. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-css.svg)](https://www.npmjs.com/package/@bookklik/senangstart-css) |
-| `@bookklik/senangstart-icons` | Curated starter icons for web projects. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-icons.svg)](https://www.npmjs.com/package/@bookklik/senangstart-icons) |
-| `@bookklik/ezyreka` | Lightweight toolkit for rapid web development. | [![npm](https://img.shields.io/npm/v/@bookklik/ezyreka.svg)](https://www.npmjs.com/package/@bookklik/ezyreka) |
-| `@bookklik/ezynota` | Minimal note-taking library for developers. | [![npm](https://img.shields.io/npm/v/@bookklik/ezynota.svg)](https://www.npmjs.com/package/@bookklik/ezynota) |
-| `@bookklik/ezygrid` | Responsive grid and data layout component. | [![npm](https://img.shields.io/npm/v/@bookklik/ezygrid.svg)](https://www.npmjs.com/package/@bookklik/ezygrid) |
+| **SenangStart Actions** | A lightweight, declarative JavaScript framework for building reactive user interfaces without a build step. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-actions.svg)](https://www.npmjs.com/package/@bookklik/senangstart-actions) |
+| **SenangStart CSS** | A utility-first CSS framework that uses natural adjectives instead of abstract naming conventions. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-css.svg)](https://www.npmjs.com/package/@bookklik/senangstart-css) |
+| **SenangStart Icons** | A curated collection of SVG icons for web projects, easily integrated using the `ss-icon` web component. | [![npm](https://img.shields.io/npm/v/@bookklik/senangstart-icons.svg)](https://www.npmjs.com/package/@bookklik/senangstart-icons) |
+| **EzyReka** | A lightweight toolkit for rapid web development and creative prototyping. | [![npm](https://img.shields.io/npm/v/@bookklik/ezyreka.svg)](https://www.npmjs.com/package/@bookklik/ezyreka) |
+| **EzyNota** | A minimal, developer-friendly note-taking library designed for developers and AI agents. | [![npm](https://img.shields.io/npm/v/@bookklik/ezynota.svg)](https://www.npmjs.com/package/@bookklik/ezynota) |
+| **EzyGrid** | A responsive grid and data layout component for modern, data-driven web applications. | [![npm](https://img.shields.io/npm/v/@bookklik/ezygrid.svg)](https://www.npmjs.com/package/@bookklik/ezygrid) |
 
 ---
 
