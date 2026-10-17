@@ -2,13 +2,11 @@
 
 **Building tools for humans and AI agents.**
 
-Bookklik Technologies is a software solution provider based in Cyberjaya, Selangor, Malaysia. Founded in 2018 by A.Hakim, we are a small, dynamic team focused on web development, app development, and emerging technologies like augmented reality (AR) and virtual reality (VR). We believe in solving real-world problems with the power of technology and information.
+Bookklik Technologies is a software solution provider based in Cyberjaya, Selangor, Malaysia. A small, dynamic team focused on web development, app development, and emerging technologies like augmented reality (AR) and virtual reality (VR). We believe in solving real-world problems with the power of technology and information.
 
 ---
 
 ## 🚀 Our Open-Source Projects & Packages
-
-At **Bookklik Technologies**, we are proud to contribute to the developer and creator communities by building lightweight, powerful, and accessible open-source tools. Our projects focus on simplifying modern web development, enhancing productivity, and empowering developers, designers, and AI agents to build and create more efficiently.
 
 Our ecosystem includes JavaScript frameworks, UI components, development libraries, and browser-based creative tools. Explore our projects on **GitHub** and **npm**.
 
@@ -52,8 +50,5 @@ We are always open to collaboration, questions, and feedback. Feel free to reach
 
 ### Founder
 - **A.Hakim** — *Founder & Technology Officer*
+- **Website:** [https://a-hakim.use.senangwebs.com](https://a-hakim.use.senangwebs.com/)
 - **GitHub** [a-hakim](https://github.com/a-hakim)
-
----
-
-*Made with ❤️ in Malaysia.*
